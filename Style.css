@@ -1,0 +1,76 @@
+body{
+    margin-top: 0px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 0px;
+    background-color: rgb(88, 84, 80);
+    color: rgb(80, 78, 78);
+    font-family:"RSU", "RSU" , "RSU";
+    
+}
+
+
+
+header{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    right: 40%;
+}
+nav ul{
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0;
+    position: absolute;
+    top: 5em;
+    left: 135px;
+    width: 7em;
+    font-size: 34px;
+}
+
+ul a{
+    text-decoration: none;
+    position: relative;
+    padding: -0px; 
+    margin: 15px;
+    text-transform: uppercase ;
+    letter-spacing: 10px;
+    border-radius: 5px;
+    background: linear-gradient(200deg,#0162c8,#55e7fc);
+    font-size: 25px;
+    list-style: none;
+} 
+
+a:nth-child(2)
+{ 
+    background: linear-gradient(200deg,#755bea,#ff72c0);
+}   
+
+a.link{
+    color: rgb(255, 102, 102)
+
+}
+
+a.visited{
+    color: rgb(207, 0, 0);
+}
+
+address{
+    position: absolute;
+    top:90%;
+    margin-top: lem;
+    padding-top: 100px; 
+    margin-left: 60em;
+    color: rgb(255, 255, 255);
+    text-shadow: ;
+}
+
+section
+{
+    text-align: center;
+    position: absolute;
+    left: 25%;
+    
+
+}
+
